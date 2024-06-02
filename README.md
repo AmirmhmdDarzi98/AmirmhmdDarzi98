@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and machine learning.
 - 📫 You can send me an email to contact me at this mail address: darziamir1997@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Hobbies: listen to music, read books, exercise, play chess.
+- ⚡ Hobbies: listen to music, read books, exercise, and play chess.
 
 <!---
 AmirmhmdDarzi98/AmirmhmdDarzi98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
