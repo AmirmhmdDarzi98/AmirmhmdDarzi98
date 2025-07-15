@@ -38,7 +38,7 @@ I'm passionate about **problem-solving**, **coding**, and exploring new fields t
 ## 📫 How to Reach Me
 
 Feel free to connect with me via email: darziamir1997@gmail.com
-kaggle:https://www.kaggle.com/amirram
+
 
 ---
 
